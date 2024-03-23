@@ -515,7 +515,7 @@ Top Cross-Platform (Essential) FOSS Apps
 [TutaMail - Email ](https://app.tuta.com)  
 [Syncthing - Continuous File Synchronization](https://syncthing.net/)  
 [qBittorrent - Torrent Client](https://www.qbittorrent.org/)
-</ul></details>
+</ul></details><details><summary><b>
 Other Awesome FOS Things
 </b></summary>
 <ul>

@@ -540,15 +540,21 @@ Other Awesome FOS Things
 For Windows Users
 </b></summary>
 
+<details><summary><b>
+Firewalls
+</b></summary>
+Gaining Consciousness and Control over all your Internet Traffic should be a Skill familiar to all users, novices and experts alike since this will determine the level of vulnerability against any types of threats  
+</b></summary>
+
 There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>[Portmaster](https://safing.io/)</b> and <b>[Simplewall](https://github.com/henrypp/simplewall)</b>
 
-- **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
+>- **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
 
-- **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)
-</details><details><summary><b>
+>- **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)
+</details></details><details><summary><b>
 For Any and All your devices
 </b></summary>
-it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:<br>
+it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:  
 
 * LibreRouter<br>
 * pfSense<br>
@@ -558,18 +564,25 @@ it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home
 For Android Users
 </b></summary>
 
-- Making use of both Droidify combined with Obtainium makes for an excellent way of finding and downloading Apps. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is manual and can be used to get Apps directly from Github if available<br>
-- Droidify is a client for the F-Droid Repository (A repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in). To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.<br>
+- Making use of both Droidify combined with Obtainium makes for an excellent way of finding (With Droidify) and then downloading (with Obtainium) Apps if they are available via Github. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is manual and can be used to get Apps directly from Github when available. <br>
+- Droidify is a client for the F-Droid Repository which is a repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in. To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.<br>
 - Obtainium is an App designed to fetch and install FOSS Apps directly from Github if available.<br>
-- With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the desired app. If one chooses the app is suitable and contains no anti-features, they may copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
+- With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the app of interest. If one chooses an app that is suitable and contains no anti-features, they may find and copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
+- I have provided a list of some of the most basic or crucial Apps I have been using for many years and can recommend in the form of this Github user's Starred Apps which was designed originally to be imported from within Obtainium. To import this list go to Obtainium>Import/Export>Import Github Starred Repos and type this Github's Username: (**Awesome-FOSS-Obtainyum**) (with a **Y** on the last i because Yum, that's Y).
 - For further Auditing of Apps, one can also make use of Aurora Store and App Manager (Can be found on F-Droid/Droidify). Both of these apps can provide a description of any trackers that may be found within apps. This helps to bring consciousness to how Apps use the internet and trackers which is where data often is leaked through.
 </details><details><summary><b>
 For Linux Users
 </b></summary>
-You are the Solution xD . Thank You. Keep Being Awesome and promote the use of Linux.
-</details></details>
+
+You *are* the Solution xD . Thank You. Keep Being Awesome! I love you
+<details><summary><b>
+Portmaster (Firewall + DNS)
+</summary></b>
+Better than other Linux Firewalls? A Firewall + DNS. Portmaster allows configuring both Firewalling and DNS for each app individually. When combined with multiple browsers, it is easier to separate private browsing such as banking and shopping from other kinds of browsing. 
+</details>
 
 ## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
+
 >**Step 1.** De-Google your Phone and Download a FOSS Keyboard.
 If you have already installed Obtainium you can Import the
 list of Starred Apps by going to Obtainium>Import>Import 
@@ -605,6 +618,7 @@ If a Keyfile is modified it will change values crucial to functioning as a Keyfi
 </details><details><summary>
 To prepare for AI and other technology that can create deceptive, misleading information about you and or your loved ones</summary>
 
+- Adhere to Digitial Signature practices, these should be mandatory in political spheres and real estate. 
 - Avoid using (closed-source) Apps that can and likely (if not already do) sell your data and that probably have built-in backdoors
 - Adhere to only encrypted means of communication such as using e-mail with PGP and encrypting all mail by default
 - Adhering to using only FOSS Apps as much as possible while becoming a Master in Firewalls is the best way to prevent personal private data being leaked

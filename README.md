@@ -485,139 +485,122 @@ Other FOS Concepts
 ## The Best FOSS Solutions
 </b></summary>
 <details><summary><b>
-The Best FOS Mobile Device Operating Systems
-</b></summary>
-<ul>
+The Best FOS Mobile Device Operating Systems</b></summary>
 
-[CalyxOS](https://calyxos.org/)  
-[GrapheneOS](https://calyxos.org/)  
-[LineageOS](https://lineageos.org/)  
-[Sailfish OS](https://sailfishos.org/)  
-[Plasma Mobile](https://plasma-mobile.org/)  
-[Ubuntu Touch](https://ubuntu-touch.io/)  
-[Postmarket OS](https://postmarketos.org/)  
-[Replicant (Android)](https://www.replicant.us/)  
-[Pure OS](https://www.pureos.net/)  
-[Mobian OS](https://mobian-project.org/)  
-[Maru OS ( "Use your Phone as your PC" )](https://maruos.com/)  
-[KaiOS ( For Keypad Feature Phones )](https://en.wikipedia.org/wiki/KaiOS)  
-[Asteroid OS ( For Smartwatches )](https://asteroidos.org/)  
+- [**CalyxOS**](https://calyxos.org/)  
+- [**GrapheneOS**](https://calyxos.org/)  
+- [**LineageOS**](https://lineageos.org/)  
+- [**Sailfish OS**](https://sailfishos.org/)  
+- [**Plasma Mobile**](https://plasma-mobile.org/)  
+- [**Ubuntu Touch**](https://ubuntu-touch.io/)  
+- [**Postmarket OS**](https://postmarketos.org/)  
+- [**Replicant** (Android)](https://www.replicant.us/)  
+- [**Pure OS**](https://www.pureos.net/)  
+- [**Mobian OS**](https://mobian-project.org/)  
+- [**Maru OS** ( "Use your Phone as your PC" )](https://maruos.com/)  
+- [**KaiOS** ( For Keypad Feature Phones )](https://en.wikipedia.org/wiki/KaiOS)  
+- [**Asteroid OS** ( For Smartwatches )](https://asteroidos.org/)  
 
 </ul></details><details><summary><b>
-Top Cross-Platform (Basic and Essential) FOSS Apps
-</b></summary>
-<ul>
+Top Cross-Platform (Basic and Essential) FOSS Apps</b></summary>
 
-[LibreOffice - Office Suite](https://www.libreoffice.org/)  
-[Logseq - Note-Taking/Personal Data Management App](https://logseq.com/)  
-[Portmaster - Best Firewall + DNS](https://safing.io/)  
-[Element - Messaging App](https://element.io/)  
-[TutaMail - Email ](https://app.tuta.com)  
-[Syncthing - Continuous File Synchronization](https://syncthing.net/)  
-[qBittorrent - Torrent Client](https://www.qbittorrent.org/)  
-[RustDesk - Remote Desktop / Mobile Device App](https://rustdesk.com/)  
-[Tox - Simple Messaging App (No Sign Up required)](https://tox.chat)  
-[VSCodium - FLOS Binaries of VS Code](https://vscodium.com/)  
-</ul></details><details><summary><b>
-Other Awesome FOS Thingies
-</b></summary>
-<ul>
+- [**LibreOffice** - Office Suite](https://www.libreoffice.org/)  
+- [**Logseq** - Note-Taking/Personal Data Management App](https://logseq.com/)  
+- [**Portmaster** - Best Firewall + DNS](https://safing.io/)  
+- [**Element** - Messaging App](https://element.io/)  
+- [**TutaMail** - Email ](https://app.tuta.com)  
+- [**Syncthing** - Continuous File Synchronization](https://syncthing.net/)  
+- [**qBittorrent** - Torrent Client](https://www.qbittorrent.org/)  
+- [**RustDesk** - Remote Desktop / Mobile Device App](https://rustdesk.com/)  
+- [**Tox** - Simple Messaging App (No Sign Up required)](https://tox.chat)  
+- [**VSCodium** - FLOS Binaries of VS Code](https://vscodium.com/)  
+</details><details><summary><b>Other Awesome FOS Thingies</b></summary>
 
-[GeekBox: Open Source Cross TV BOX](https://www.geekbuying.com/item/GeekBox-Open-Source-Cross-TV-BOX-Android-Ubuntu-Dual-Boot-4K-RK3368-Octa-Core-2G-16G-AC-WIFI-1000M-LAN-BT4-1-HDMI2-0-OTG-358067.html)  
-[The Pyra: The most feature-rich ultra portable Mini Computer](https://pyra-handheld.com/boards/pages/pyra/)<br><details><summary>
-[Pine64 Devices](https://pine64.org/devices/)</summary>
+- [**GeekBox**: Open Source Cross TV BOX](https://www.geekbuying.com/item/GeekBox-Open-Source-Cross-TV-BOX-Android-Ubuntu-Dual-Boot-4K-RK3368-Octa-Core-2G-16G-AC-WIFI-1000M-LAN-BT4-1-HDMI2-0-OTG-358067.html)  
+- [**The Pyra**: The most feature-rich ultra portable Mini Computer](https://pyra-handheld.com/boards/pages/pyra/)  
 
-- [Pine Time: Smartwatch](https://pine64.org/devices/pinetime/)  
-- [Pine Buds Pro: Earbuds](https://pine64.org/devices/pinebuds_pro/)
-- [Pine Note: Eink Tablet](https://pine64.org/devices/pinenote/)  
-- [Pine Cube: IP Camera](https://pine64.org/devices/pinecube/)  
-- [Pinecil: Soldering Iron](https://pine64.org/devices/pinecil/)  
-- [PinePower Desktop: 120W Desktop Power Supply](https://pine64.org/devices/pinepower_desktop/)  
-- [PinePower: A 65W GaN Power Supply](https://pine64.org/devices/pinepower/)  
-- [PineVox: SmartHome Device](https://pine64.org/devices/pinevox/)
-- [PinePhone Pro Keyboard](https://pine64.org/documentation/Phone_Accessories/Keyboard/)
+- <details><summary><b><a href="https://pine64.org/devices/">Pine64 Devices</a></b></summary>
+
+  - [**Pine Time**: Smartwatch](https://pine64.org/devices/pinetime/)  
+  - [**Pine Buds Pro**: Earbuds](https://pine64.org/devices/pinebuds_pro/)
+  - [**Pine Note**: Eink Tablet](https://pine64.org/devices/pinenote/)  
+  - [**Pine Cube**: IP Camera](https://pine64.org/devices/pinecube/)  
+  - [**Pinecil**: Soldering Iron](https://pine64.org/devices/pinecil/)  
+  - [**PinePower Desktop**: 120W Desktop Power Supply](https://pine64.org/devices/pinepower_desktop/)  
+  - [**PinePower**: A 65W GaN Power Supply](https://pine64.org/devices/pinepower/)  
+  - [**PineVox**: SmartHome Device](https://pine64.org/devices/pinevox/)
+  - [**PinePhone Pro Keyboard**](https://pine64.org/documentation/Phone_Accessories/Keyboard/)
+</details></details>
+   <details><summary><b>For Any and All your devices</b></summary>
+
+   It may be worth researching (or simply asking AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:  
+
+* LibreRouter
+* pfSense
+* TurrisOmnia
+* OpenWrt
 </details>
-</ul></details>
+<details><summary><b>For Windows Users</b></summary>
 
-<details><summary><b>
-For Windows Users
+- <details><summary>Firewalls</b></summary>
+
+  Gaining Consciousness and Control over all your Internet Traffic should be a Skill familiar to all users, novices and experts alike since this will determine the level of vulnerability against any types of threats  
 </b></summary>
 
-<details><summary><b>
-Firewalls
-</b></summary>
-Gaining Consciousness and Control over all your Internet Traffic should be a Skill familiar to all users, novices and experts alike since this will determine the level of vulnerability against any types of threats  
-</b></summary>
+   There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>[Portmaster](https://safing.io/)</b> and <b>[Simplewall](https://github.com/henrypp/simplewall)</b>
 
-There are two powerful Open Source Firewalls which if combined together can provide excellent safety measures against most threats that depend on internet connections. Namely, these are <b>[Portmaster](https://safing.io/)</b> and <b>[Simplewall](https://github.com/henrypp/simplewall)</b>
+   >- **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
 
->- **Portmaster** will grant further insight and control over what internet connections each app is making. By implementing DNS, Portmaster can selectively block certain domains (websites/url) for each app individually. This means you could have for eg. Firefox where you might block Big Data (by using the built-in block list in the filters section) and then you could have Waterfox where you allow everything. In this way you can use Firefox to do Banking safely and securely without allowing unnecessary connections where data could be leaked while using Waterfox for ordinary browsing.
+   >- **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)</details></details>
 
->- **Simplewall** can block most unnecessary network connections that are enabled by default in windows, but even better, Simple Wall allows one to give individual apps internet access using a timer, allowing one to allow an app only the amount of time needed to perform an action (for eg. an update). This is also excellent to audit apps and ensure one does not accidentally block an app that is crucial while finding out if the app in question ever needed internet access at all (Surprisingly many Windows/Microsoft apps do not need internet, it is fair enough to ensure no data is leaked by blocking most of them)
-</details></details><details><summary><b>
-For Any and All your devices
-</b></summary>
-it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home. The Pi-Hole can provide basic-to-advanced level protection for all your devices by using DNS. You may also want to look into FOSS Routers such as:  
-
-* LibreRouter<br>
-* pfSense<br>
-* TurrisOmnia<br>
-* OpenWrt<br>
 </details><details><summary><b>
 For Android Users
-</b></summary><details><summary><b>
-Top FOSS Apps for Android
-</summary></b>
-
-- This Github User ( Awesome-FOSS-Obtainyum ) was originally created to make importing apps into Obtainium easier. Eventually after watching the flourishing of seeds, it felt appropriate to write this guide as everything fell into place.  
-To import this list of Awesome FOSS Apps, simply go to Obtainium > Import/Export > Import Github Starred Repo and type this Github's Username (Awesome-FOSS-Obtainyum). This should make things easier for most of the next steps.
-</details><details><summary><b>
-Droidify & Obtainium
 </b></summary>
+ 
+ - <details><summary><b>Top FOSS Apps for Android</summary></b>
 
-- Making use of both [**Droidify**](https://f-droid.org/en/packages/com.looker.droidify/) combined with **Obtainium** ( [Github](https://github.com/ImranR98/Obtainium) | [F-Droid](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) ) makes for an excellent way of finding (With Droidify) and then downloading (with Obtainium) Apps if they are available via Github. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is more of a manual downloader (obtainer) and can be used to get Apps directly from Github when available.
-  - **Droidify** is a client for the F-Droid Repository which is a repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in. To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.
-  - **Obtainium** is an App designed to fetch and install FOSS Apps directly from Github if available.
-  - With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the app of interest. If one chooses an app that is suitable and contains no anti-features, they may find and copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)  
-</details><details><summary><b>
-Aurora Store and Aurora Droid
-</b></summary>
+   - This Github User ( **Awesome-FOSS-Obtainyum** ) was originally created to make importing apps into Obtainium easier. Eventually after watching the flourishing of some seeds, it felt appropriate to write this guide as everything fell into place. 
+   To Import this list of Awesome FOSS Apps, simply go to **Obtainium > Import/Export > Import Github Starred Repo** and type this Github's Username (Awesome-FOSS-Obtainyum). This should make things easier for most of the next steps.
+  - <details><summary><b>Droidify & Obtainium</b></summary>
+   
+    - [**Droidify**](https://f-droid.org/en/packages/com.looker.droidify/) when combined with **Obtainium** ( [Github](https://github.com/ImranR98/Obtainium) | [F-Droid](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) ) make for an excellent way of finding (With Droidify) and then downloading (with Obtainium) Apps if they are available via Github. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is more of a manual downloader (obtainer) and can be used to get Apps directly from Github when available.
+      - **Droidify** is a client for the F-Droid Repository which is a repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in. To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.
+      - **Obtainium** is an App designed to fetch and install FOSS Apps directly from Github if available.
+    - With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the app of interest. If one chooses an app that is suitable and contains no anti-features, they may find and copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)</details>
+    - <details><summary><b>Aurora Store and Aurora Droid</b></summary>  
+   
+      - [**Aurora Store**](https://f-droid.org/en/packages/com.aurora.store/): A Google Play Store Alternative:  
+            Besides being the primary Alternative to Google Play Store, Aurora Store is also an excellent way to check Apps for trackers. This can be seen in the App's Details section. For more info see the [Aurora Store FAQ](https://aurora-oss.vercel.app/faq/#aurora-store)
 
-- [**Aurora Store**](https://f-droid.org/en/packages/com.aurora.store/): A Google Play Store Alternative:  
-  - Besides being the primary Alternative to Google Play Store, Aurora Store is also an excellent way to check Apps for trackers. This can be seen in the App's Details section. For more info see the [Aurora Store FAQ](https://aurora-oss.vercel.app/faq/#aurora-store)
-- [**Aurora Droid**](https://aurora-oss.vercel.app/download/AuroraDroid/): An F-Droid Client  
-  - Aurora Droid is an unofficial, FOSS client to F-Droid and F-Droid compatible repositories with an elegant design. Not only does Aurora Store download, update, and search for apps like the Official F-Droid client, it also empowers the user with new features. [Aurora Droid FAQ](https://aurora-oss.vercel.app/faq/#aurora-droid)
-</details><details><summary><b>
-RethinkDNS
-</b></summary>
+      - [**Aurora Droid**](https://aurora-oss.vercel.app/download/AuroraDroid/): An F-Droid Client  
+        Aurora Droid is an unofficial, FOSS client to F-Droid and F-Droid compatible repositories with an elegant design. Not only does Aurora Store download, update, and search for apps like the Official F-Droid client, it also empowers the user with new features. [Aurora Droid FAQ](https://aurora-oss.vercel.app/faq/#aurora-droid)    
+     - <details><summary><b>RethinkDNS</b></summary>
 
--  [**RethinkDNS**](https://rethinkdns.com/) is a [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) with a [DNS Resolver](https://en.wikipedia.org/wiki/Domain_Name_System#DNS_resolvers). Since it is currently the only Firewall+DNS and since I believe All Firewalls should include a DNS Resolver and that this should be the standard ( because they can and might as well ) I am only going to recommend RethinkDNS for Firewalling Solutions on Android.   
-</details></details></details><details><summary><b>
-For Linux Users
-</b></summary>
+         - [**RethinkDNS**](https://rethinkdns.com/) is a [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) with a [DNS Resolver](https://en.wikipedia.org/wiki/Domain_Name_System#DNS_resolvers). Since it is currently the only Firewall+DNS and since I believe All Firewalls should include a DNS Resolver and that this should be the standard ( because they can and might as well ) I am only going to recommend RethinkDNS for Firewalling Solutions on Android.
+</details></details>
+
+<details><summary><b>For Linux Users</b></summary>
 
 You *are* the Solution xD . Thank You. Keep Being Awesome! I love you
-<details><summary><b>
-Portmaster (Firewall + DNS)
-</summary></b>
-Better than other Linux Firewalls? A Firewall + DNS. Portmaster allows configuring both Firewalling and DNS for each app individually. When combined with multiple browsers, it is easier to separate private browsing such as banking and shopping from other kinds of browsing. 
+
+-  <details><summary><b>Portmaster (Firewall + DNS)</summary></b>Better than other Linux Firewalls? A Firewall + DNS. Portmaster allows configuring both Firewalling and DNS for each app individually. When combined with multiple browsers, it is easier to separate private browsing such as banking and shopping from other kinds of browsing. 
 </details></details>
 
 ## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
 
 >**Step 1.** De-Google your Phone and Download a FOSS Keyboard.
 If you have already installed Obtainium you can Import the
-list of Starred Apps by going to Obtainium>Import>Import 
-from Starred Github Repo> and then typing Awesome-Foss-Obtainyum. Once you have Imported the List of Apps you will find FlorisBoard (An excellent FOSS Keyboard) listed which you can download and install. This is the first step because the default Keyboards on Most Android Phones (Google Keyboard) have access to internet and everything you type within the keyboard (Including passwords) is being sent to Google Servers. So before creating any new accounts with new passwords, ensure you have a FOSS Keyboard that does not even require an Internet Connection 
+list of Starred Apps by going to **Obtainium>Import>Import 
+from Starred Github Repo>** and then typing **Awesome-Foss-Obtainyum**. Once you have Imported the List of Apps you will find **FlorisBoard** (An excellent FOSS Keyboard) listed which you can download and install. This is the first step because the default Keyboards on Most Android Phones (Google Keyboard) have access to internet and everything you type within the keyboard (Including passwords) is being sent to Google Servers. So before creating any new accounts with new passwords, ensure you have a FOSS Keyboard that does not even require an Internet Connection 
 >
->**Step 2.** Download and Install [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) and Droidify unless you have already done so.
+>**Step 2.** Download and Install [Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) and [Droidify](https://f-droid.org/en/packages/com.looker.droidify/) unless you have already done so.
 >
 >**Step 3.** Download, Explore, and Learn to Use Firewalls. [RethinkDNS](https://f-droid.org/en/packages/com.celzero.bravedns/) is currently one of the best, most promising Firewalls+DNS (and hopefully soon will have a VPN) for Android. Next to RethinkDNS would be NetGuard.
 Take your time to explore the App and Learn of every feature, be patient with yourself, take as many days as needed to slowly digest and get the hang of using it. Firewall Mastery can be simple once you get the hang of it and is one of the best basic ways to defend from External (Internet)-based Risks.
 >
 >**Step 4.** Think about what apps you use and need the most and check to see if there is a FOSS alternative or equivalent with [Droidify](https://f-droid.org/en/packages/com.looker.droidify/). 
 If there is a FOSS App equivalent, this is how I began pioneering and exploring FOSS Apps, until finally coming to this time where most of the Apps I need are available in FOSS form. This is why this Github was created to Star the Apps I use and recommend the most so that it would be easy to import into Obtainium and to share with anyone who wishes to benefit from this same practice.
->- Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. The username to this github (awesome-foss-obtainyum) can be entered into the Import/Export section of Obtainium by using the "Import GitHub Starred Repos" to import some of my personal picks for some of the most essential and decently functional apps available via Obtainium. 
+>- Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. As a general rule of thumb it is also worth considering that many FOSS Apps may not always be entirely stable since they are typically developed by independent programmers during their spare time and usually take on FOSS App projects as volunteers.  
 
 </details><details><summary>
 Further Considerations for the coming ages of exponential technological advancements.

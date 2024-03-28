@@ -521,7 +521,7 @@ You *are* the Solution xD . Thank You. Keep Being Awesome! I love you
 
 ## Unfeeding the Skynet and Matrix Machines
 
-> #### A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks and Unfeeding the Matrix and Skynet Machines.
+> #### A Simple Guide for Android Users to Reducing, Preventing and Eliminating most (if not all) internet related risks which works along with Unfeeding the Matrix and Skynet Machines.
 > **Step 1.** De-Google your Phone and Download a FOSS Keyboard.
 If you have already installed Obtainium you can Import the
 list of Starred Apps by going to **Obtainium>Import>Import 

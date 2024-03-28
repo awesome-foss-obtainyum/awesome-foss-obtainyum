@@ -504,7 +504,7 @@ The Best FOS Mobile Device Operating Systems
 [Asteroid OS ( For Smartwatches )](https://asteroidos.org/)  
 
 </ul></details><details><summary><b>
-Top Cross-Platform (Essential) FOSS Apps
+Top Cross-Platform (Basic and Essential) FOSS Apps
 </b></summary>
 <ul>
 
@@ -514,9 +514,12 @@ Top Cross-Platform (Essential) FOSS Apps
 [Element - Messaging App](https://element.io/)  
 [TutaMail - Email ](https://app.tuta.com)  
 [Syncthing - Continuous File Synchronization](https://syncthing.net/)  
-[qBittorrent - Torrent Client](https://www.qbittorrent.org/)
+[qBittorrent - Torrent Client](https://www.qbittorrent.org/)  
+[RustDesk - Remote Desktop / Mobile Device App](https://rustdesk.com/)  
+[Tox - Simple Messaging App (No Sign Up required)](https://tox.chat)  
+[VSCodium - FLOS Binaries of VS Code](https://vscodium.com/)  
 </ul></details><details><summary><b>
-Other Awesome FOS Things
+Other Awesome FOS Thingies
 </b></summary>
 <ul>
 
@@ -562,15 +565,34 @@ it is worth researching (Just ask AI) how to use Pi-Holes and set one up at home
 * OpenWrt<br>
 </details><details><summary><b>
 For Android Users
+</b></summary><details><summary><b>
+Top FOSS Apps for Android
+</summary></b>
+
+- This Github User ( Awesome-FOSS-Obtainyum ) was originally created to make importing apps into Obtainium easier. Eventually after watching the flourishing of seeds, it felt appropriate to write this guide as everything fell into place.  
+To import this list of Awesome FOSS Apps, simply go to Obtainium > Import/Export > Import Github Starred Repo and type this Github's Username (Awesome-FOSS-Obtainyum). This should make things easier for most of the next steps.
+</details><details><summary><b>
+Droidify & Obtainium
 </b></summary>
 
-- Making use of both Droidify combined with Obtainium makes for an excellent way of finding (With Droidify) and then downloading (with Obtainium) Apps if they are available via Github. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is manual and can be used to get Apps directly from Github when available. <br>
-- Droidify is a client for the F-Droid Repository which is a repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in. To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.<br>
-- Obtainium is an App designed to fetch and install FOSS Apps directly from Github if available.<br>
-- With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the app of interest. If one chooses an app that is suitable and contains no anti-features, they may find and copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)<br>
-- I have provided a list of some of the most basic or crucial Apps I have been using for many years and can recommend in the form of this Github user's Starred Apps which was designed originally to be imported from within Obtainium. To import this list go to Obtainium>Import/Export>Import Github Starred Repos and type this Github's Username: (**Awesome-FOSS-Obtainyum**) (with a **Y** on the last i because Yum, that's Y).
-- For further Auditing of Apps, one can also make use of Aurora Store and App Manager (Can be found on F-Droid/Droidify). Both of these apps can provide a description of any trackers that may be found within apps. This helps to bring consciousness to how Apps use the internet and trackers which is where data often is leaked through.
+- Making use of both [**Droidify**](https://f-droid.org/en/packages/com.looker.droidify/) combined with **Obtainium** ( [Github](https://github.com/ImranR98/Obtainium) | [F-Droid](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid/) ) makes for an excellent way of finding (With Droidify) and then downloading (with Obtainium) Apps if they are available via Github. Currently Droidify can explore the entire F-Droid Repository, while Obtainium is more of a manual downloader (obtainer) and can be used to get Apps directly from Github when available.
+  - **Droidify** is a client for the F-Droid Repository which is a repository tasked with hosting only FOSS Android Apps, which also checks to ensure the apps require only the permissions that are being claimed and to ensure the integrity vs Anti-Features that may be built in. To do this sort of certification process, F-Droid scans the APK Source code, then adds its own signature to the APK to sort of "verify" or "certify" that there are no Anti-Features that would go by unnoticed, while listing any Anti Features that may be found in the code.
+  - **Obtainium** is an App designed to fetch and install FOSS Apps directly from Github if available.
+  - With both of these Apps installed, one can use Droidify to find out if there are any Anti Features in the app of interest. If one chooses an app that is suitable and contains no anti-features, they may find and copy the GitHub Link provided in the App description, then paste that link into Obtanium if they prefer to fetch the pure APK (Without the F-Droid Signature)  
 </details><details><summary><b>
+Aurora Store and Aurora Droid
+</b></summary>
+
+- [**Aurora Store**](https://f-droid.org/en/packages/com.aurora.store/): A Google Play Store Alternative:  
+  - Besides being the primary Alternative to Google Play Store, Aurora Store is also an excellent way to check Apps for trackers. This can be seen in the App's Details section. For more info see the [Aurora Store FAQ](https://aurora-oss.vercel.app/faq/#aurora-store)
+- [**Aurora Droid**](https://aurora-oss.vercel.app/download/AuroraDroid/): An F-Droid Client  
+  - Aurora Droid is an unofficial, FOSS client to F-Droid and F-Droid compatible repositories with an elegant design. Not only does Aurora Store download, update, and search for apps like the Official F-Droid client, it also empowers the user with new features. [Aurora Droid FAQ](https://aurora-oss.vercel.app/faq/#aurora-droid)
+</details><details><summary><b>
+RethinkDNS
+</b></summary>
+
+-  [**RethinkDNS**](https://rethinkdns.com/) is a [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)) with a [DNS Resolver](https://en.wikipedia.org/wiki/Domain_Name_System#DNS_resolvers). Since it is currently the only Firewall+DNS and since I believe All Firewalls should include a DNS Resolver and that this should be the standard ( because they can and might as well ) I am only going to recommend RethinkDNS for Firewalling Solutions on Android.   
+</details></details></details><details><summary><b>
 For Linux Users
 </b></summary>
 
@@ -579,7 +601,7 @@ You *are* the Solution xD . Thank You. Keep Being Awesome! I love you
 Portmaster (Firewall + DNS)
 </summary></b>
 Better than other Linux Firewalls? A Firewall + DNS. Portmaster allows configuring both Firewalling and DNS for each app individually. When combined with multiple browsers, it is easier to separate private browsing such as banking and shopping from other kinds of browsing. 
-</details>
+</details></details>
 
 ## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
 

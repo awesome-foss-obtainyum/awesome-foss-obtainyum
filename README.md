@@ -519,8 +519,9 @@ You *are* the Solution xD . Thank You. Keep Being Awesome! I love you
 -  <details><summary><b>Portmaster (Firewall + DNS)</summary></b>Better than other Linux Firewalls? A Firewall + DNS. Portmaster allows configuring both Firewalling and DNS for each app individually. When combined with multiple browsers, it is easier to separate private browsing such as banking and shopping from other kinds of browsing. 
 </details></details>
 
-## A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks.
+## Unfeeding the Skynet and Matrix Machines
 
+> #### A Simple Guide for Android Users to reducing and eliminating most (if not all) internet related risks and Unfeeding the Matrix and Skynet Machines.
 > **Step 1.** De-Google your Phone and Download a FOSS Keyboard.
 If you have already installed Obtainium you can Import the
 list of Starred Apps by going to **Obtainium>Import>Import 
@@ -531,9 +532,9 @@ from Starred Github Repo>** and then typing **Awesome-Foss-Obtainyum**. Once you
 > **Step 3.** Download, Explore, and Learn to Use Firewalls. [RethinkDNS](https://f-droid.org/en/packages/com.celzero.bravedns/) is currently one of the best, most promising Firewalls+DNS (and hopefully soon will have a VPN) for Android. Next to RethinkDNS would be NetGuard.
 Take your time to explore the App and Learn of every feature, be patient with yourself, take as many days as needed to slowly digest and get the hang of using it. Firewall Mastery can be simple once you get the hang of it and is one of the best basic ways to defend from External (Internet)-based Risks.
 >
-> **Step 4.** Think about what apps you use and need the most and check to see if there is a FOSS alternative or equivalent with [Droidify](https://f-droid.org/en/packages/com.looker.droidify/). 
+>  **Step 4.** Think about what apps you use and need the most and check to see if there is a FOSS alternative or equivalent with [Droidify](https://f-droid.org/en/packages/com.looker.droidify/). 
 If there is a FOSS App equivalent, this is how I began pioneering and exploring FOSS Apps, until finally coming to this time where most of the Apps I need are available in FOSS form. This is why this Github was created to Star the Apps I use and recommend the most so that it would be easy to import into Obtainium and to share with anyone who wishes to benefit from this same practice.
->- Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. As a general rule of thumb it is also worth considering that many FOSS Apps may not always be entirely stable since they are typically developed by independent programmers during their spare time and usually take on FOSS App projects as volunteers.  
+> - Note: Not all Apps -even if they are available on Github- will be easily available through Obtainium. The Apps that _are_ available however, are worth installing via Obtainium vs through other methods. As a general rule of thumb it is also worth considering that many FOSS Apps may not always be entirely stable since they are typically developed by independent programmers during their spare time and usually take on FOSS App projects as volunteers.  
 
 </details><details><summary>
 Further Considerations for the coming ages of exponential technological advancements.

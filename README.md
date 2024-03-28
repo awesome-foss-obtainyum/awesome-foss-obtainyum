@@ -415,12 +415,10 @@ Other FOS Concepts
 
 - [Open Source Ecology](https://www.opensourceecology.org/)
 - [Open Source Spirituality](https://secretenergy.com/)
-</ul></details></details><summary><b>
+</ul></details></details>
 
 ## The Best FOSS Solutions
-</b></summary>
-<details><summary><b>
-The Best FOS Mobile Device Operating Systems</b></summary>
+<details><summary><b>The Best FOS Mobile Device Operating Systems</b></summary>
 
 - [**CalyxOS**](https://calyxos.org/)  
 - [**GrapheneOS**](https://calyxos.org/)  
